@@ -1,0 +1,5049 @@
+[
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1b354837-4925-4480-ac32-6b44d0957314",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f315f22e-796f-4b06-95e9-bf215d143427.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "e2671578-04c1-5aac-a347-a44aec1bba66"
+      }
+    ],
+    "file_size": 773594
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6d72de06-232a-4983-a06c-eba6d82cb3f1",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a1c8ead3-34e9-4698-b45c-730c4ce7d444.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774051
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0780eb43-d5b5-4c3d-9825-beacba5cc723",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "cdfce442-1250-4dd4-a9fb-12993d9ddaec.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "d51f66bd-4be8-52bd-9c38-5615e9825e9f"
+      }
+    ],
+    "file_size": 770956
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c390b6ad-14c8-49ea-9b38-798c9fad5b62",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "77700a90-1e85-41ef-9050-b9ee8709d79c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760050
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "294ff941-aea1-4588-9a0e-e9f5393e2bb6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4cbcb718-0df3-4fd5-9373-8b44356455f8.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "0365ba15-1b97-57a1-a38d-598be7dc4e21"
+      }
+    ],
+    "file_size": 768369
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "294ff941-aea1-4588-9a0e-e9f5393e2bb6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b7ce1a40-5d97-444f-8ab1-6674669ca817.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "0365ba15-1b97-57a1-a38d-598be7dc4e21"
+      }
+    ],
+    "file_size": 772518
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "03c3409a-9d16-41d0-9e26-f9fc2547a4c8",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ce7cf565-d053-41f8-abee-5d46d6f0401a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772953
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0147edcf-0ca5-4136-bd01-43d05e2843f4",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ee10f7a7-02a1-492e-a6e9-95e8ffde0522.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 751373
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0df573ee-28f0-4244-b434-09e6ca59fbf0",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "bef074a5-eba7-42eb-b6b2-d0f4eb268736.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774336
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0ea4920f-f4c8-4590-84b3-eb419824e144",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "427f0844-8861-4525-8df9-abcc757f415f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770654
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "088edf89-d2b5-40c7-b066-df3bd383f7ea",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c014f3a2-a038-4d39-bc6f-474f55dee1c2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772887
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "19ca36e6-2154-4224-89b1-117a4a4407f6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e298123a-bd61-4e21-9bc3-41254f39016d.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771490
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "25c9f984-1a5a-4cca-9ad1-39f759ea7174",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "41e22df9-4d98-422f-8218-0685a55b37f3.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767340
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "34040b83-7e8a-4264-a551-b16621843e28",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "19905453-5586-4d12-bead-de6d09952117.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767104
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3a23cdb5-2327-45ac-b0b5-d4afe038c757",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b2e0982b-0b2f-41bb-8382-9b2af02eb865.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768586
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3650e5b2-ef58-4b14-97b2-8698f2c160f8",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9c4b929b-cd66-4e5d-9f2d-5ae8f72aef11.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 749258
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3d0cbd55-4eda-4c52-93cc-a74381ea7c59",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fc8e5399-9c44-491c-85ad-24eb3f99a06f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770277
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3d2aa654-1b5f-4eb4-a1c2-af31f5760069",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ac51d00f-742d-42f4-a1c0-4dbdd6f4f9e1.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 755187
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3bd6badb-27ff-4d8d-b206-4d28dc264862",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b2fa5210-635a-40c2-8917-994a13ceddd2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769378
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4999df33-3a47-4feb-a264-c5d71b271d8c",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "cb404a6c-f216-4ba3-b8e4-3561035cda24.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772059
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "44adf4cb-2829-4153-80fd-a8b7ee0e654a",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "53f19144-59bb-4dcc-9ed8-3fd66c490274.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769338
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4b5ff30e-65fc-4434-b174-9d699594c658",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "884b6ae8-d046-47bc-9cff-f426cf4014f8.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766618
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "50b2c647-aecd-4c81-af22-0d8116593552",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c760c91b-036e-4721-b64f-9b04a36153f0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769930
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "50b2c647-aecd-4c81-af22-0d8116593552",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "5ae23f4c-7e16-4a19-bdb2-b6975ded25b7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768871
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "51e49548-1ad0-4c83-ae8a-2fa95bf4712a",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "67f4d884-7237-43e5-9a30-d603fac9871f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 750588
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "654affac-f8ed-40bb-9f9f-a293227b06a6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ddd0c503-d5a6-4e2a-922d-0ead2263105f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765239
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6dfd47d2-831a-4386-9051-f78199a16bb5",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8d08f930-5c11-4144-a94c-c1a15e7e8e24.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771427
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "762dea8a-5b41-4058-979a-b7876ed13d7e",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a18b2eb9-37e0-4623-886a-9f1c63845a56.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766939
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "8b3a111a-aa46-41b9-bbec-28f4290da939",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "27e21ff5-8209-459c-931f-9c888ea3c53a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767887
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "87eeaf49-3c02-402f-9ae4-3627391e7749",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "92e11d6b-89b7-49fb-a310-f298fadc58e8.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772544
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a56d2b48-375d-4193-91a9-f589c39523fb",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "18939b24-32a9-49a7-8d92-17e62b88e11a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770412
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ae39e358-08d7-4367-ae68-82b469e791e4",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f999ffb7-f38f-44f1-b08a-880da69d8d97.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767307
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ae39e358-08d7-4367-ae68-82b469e791e4",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "cda0eeaa-544c-45d8-a45b-3360c8d15c94.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771796
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b61abdfd-b7a0-4e1a-b570-d1eaecad3a9e",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fd9037c9-f425-46ff-b313-53c7ae5cec89.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 763478
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b61abdfd-b7a0-4e1a-b570-d1eaecad3a9e",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "077cda3a-b527-47d2-a9ed-8953e017d3be.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772479
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c6d78e27-e510-4f57-abae-19efa6105a8d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3236b12c-5b27-4364-bace-1a81fd99f3f4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772821
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "cd0dc947-b708-464e-beb7-954c9d4583e7",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "5cb1f28f-98a7-40a5-a87a-fa14e1d0ad49.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770275
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d717fa33-3c91-4ced-89c6-79ff5542f04c",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1b10d477-2794-409e-9d09-e0dd2f244c61.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770842
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "dcf8e752-e95c-4087-a0f5-c041787c8569",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "45941d92-e275-4a6e-bc43-a098b013cd3e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773162
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e44e279b-103e-436e-8988-1139b000bdfd",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9ecdac33-34ef-4875-b428-4fe4104eafd4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769335
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e16ca88f-488b-40f0-9169-e5a62482a2ff",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "46468ece-8b6f-4ba0-b060-44388ef28353.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773592
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "edd05f61-35f8-4133-a579-f9f32dff3bb8",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "66529b00-df83-40df-9f91-24c7bf33f71e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760007
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e8b7a103-644f-4865-92f8-80b053bd5e17",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "39bacdc8-06fd-4abc-a764-a1d9b10fe2f2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772008
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f29b5aef-d53e-457d-b140-b0b5fd1960bc",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1e0c9199-60f3-41a0-b00e-1557c19b5308.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772177
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f4b83449-7d0e-49f3-be53-81cf0d485ed8",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "7604a589-a18e-4ad1-9d95-c09f9e066cc4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769202
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f86e1da7-bad6-4eb8-ae4c-fa9421308d47",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8d90735e-5dd3-4e91-b724-62d49b1615a1.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769547
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f77b6930-a1ce-446e-a15d-c018cbbecfee",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "203ce95c-5ba9-4122-80ce-f91f2013a8fa.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773700
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "fae64c9d-5204-4dc6-a561-bf59506aabcc",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d77424d8-4b95-4319-b23a-d1b1abb43d88.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771661
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "fddc4d29-1ae8-451d-a13e-8ef6492be201",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "067901e3-9249-4d05-9fbc-2a6f0c8d35bf.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768008
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6d72de06-232a-4983-a06c-eba6d82cb3f1",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e5572a80-3434-4b5a-975b-8f3e2734c24f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775430
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "127bf818-f7e5-46b5-a9de-39f6d96b8b83",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e94bea0d-b1b7-4e5a-bb29-6edc4c9ae6cb.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "9895b432-b09e-5b6d-ab55-93cf26eed349"
+      }
+    ],
+    "file_size": 771993
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "127bf818-f7e5-46b5-a9de-39f6d96b8b83",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "03bc7016-7bbe-4a05-90b2-0562ab079e46.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "9895b432-b09e-5b6d-ab55-93cf26eed349"
+      }
+    ],
+    "file_size": 771115
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3434b91a-c05f-460f-a078-7b1bb6e7085d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2996c218-b04d-412a-a0dc-46a9ec40fdaf.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "b05e5fa2-a21a-55e6-8aa1-5e83818cd897"
+      }
+    ],
+    "file_size": 771589
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "009be09b-f9f6-43b7-8f45-4a648f8123ce",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "5503cfb0-1763-4800-8a71-6a1b87ab9394.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773522
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1ab7ad70-0f80-41d8-8efa-3baebc8223cc",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4f4fedc3-1058-4cf0-b2a9-d13bd76e0f92.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772229
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "175cb088-9b10-4fa9-95c0-7837fdc7bcf9",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "96c0db50-5d01-4a82-91dd-ded9b8ce918f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775963
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "2079155a-d91d-4246-a038-01934a580f32",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "7bc4788c-c870-49ff-a40a-1899abdb7c65.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770816
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3037e91e-213e-43e3-92e4-2fcd68988bde",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "09d42b78-fe9e-4d10-b81a-c817d70ab706.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766012
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "36ad7fc7-0cc1-4f01-aef1-f89b3cb4feac",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f3de9e05-6e08-450a-8d80-52e498d738bf.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 776679
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "44dec838-b653-42a7-a58b-a1fd232cd68c",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6b2dfa6c-fb4b-4c46-a725-88784205225e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771954
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "494d50b6-578e-441b-8195-4b4d26c0d810",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "102ddd0e-b0b6-4ea5-85ed-0f427d3a82f7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766605
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4432a02d-91de-4a7d-875f-684865f3c95d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fd331307-f20b-4f56-aab6-118c34a6b5b8.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 757848
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "5730b09c-a69f-425a-8af9-61172f9dfe56",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6e0073a0-1866-44a8-9417-af8b5b68878b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773238
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "61c655ec-52b5-453f-a6cc-b2aba445b027",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "29bfc124-4c0f-4914-a785-6cc8e1bd9fa7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770215
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "61cd3ef8-eee4-4266-b01d-09338c89740a",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b4aa45d6-3dea-44ea-a7c1-f95ea0b55135.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 748339
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "66ed89f6-8ba2-49d0-af0f-4b6ebf2381bf",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2a94516b-9615-4e76-9986-9d973691572f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769150
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "631dbd88-fc3e-4ed8-b4a7-2da137a49a11",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8526a696-27d9-44c7-9e69-0d8f61e3e316.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771688
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "673493f6-975c-49e8-934c-001e9a0fff90",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2b146c60-bc7a-430a-b331-30780517856d.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767820
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "67b5fb5d-2484-4aa5-aa7c-c6c5ecbc91b2",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f5c1525f-6f4c-445b-b7a6-3e87b0b33b79.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768680
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6cf49cf0-de4c-4c90-8358-eae19c6206b0",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "71946287-e06b-4adb-acc6-78adadf29a21.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767054
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "68b86559-38b2-41f2-b66e-c3c2b628b14d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f4af3121-1cba-461f-85e0-1074be35a581.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771339
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "733087d2-98ed-4ac7-8b48-98f0fe1c4c0f",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "68962f1d-01a8-4532-8edc-a7b706d1e8a2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769298
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "9b714a42-62e8-4b33-947e-6c4850725afd",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2655981e-0be2-4069-a562-66d18abaf1b8.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 763921
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "abb86d09-d4ff-41f4-ba22-185dc48347c9",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1768eef4-9b97-4c76-8b93-e9c37e706121.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765544
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "abf6eb5f-fa06-4032-8cff-c8522b0a3c9a",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f140ca19-e753-4f41-ba49-d6c3ee660d9c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768575
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b2c6939b-d8ec-4a07-8ea6-06c4553ee446",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "368eefac-2991-4c3a-a68c-a7b42bdc4d87.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767609
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b3c31fdc-26a7-4b39-8127-8006307eb1f5",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4fa0a352-a6eb-40ce-86ea-2a37af5763b6.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768162
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b5cdf68a-9903-4f82-9017-ab88d2b73d4f",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "69bc85b0-c0c1-473d-b30e-d476e5ade97c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 752171
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "bd693ad9-6ce9-469a-a3f9-c2779c32d6bc",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "55f3d255-484f-4348-8902-8bcf7d07e673.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760367
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c05b1a5c-2f6d-448a-94c8-58cce3d34b37",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1997b2d3-d9eb-4546-9394-18d24e076d81.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771466
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c6d78e27-e510-4f57-abae-19efa6105a8d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2fd780e1-ec4d-4471-8b4d-e16d1138b8b9.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765815
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "cc4bd56a-25c5-4c48-b583-ac3aeb778ca6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "de5b9b49-5a7a-48d8-9268-b37fea1b3f3e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770744
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d020e685-0435-4b0a-b03f-45853e1c6eed",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b805f5c4-dd76-482b-90d6-12a267f28b1e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766182
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "cd0dc947-b708-464e-beb7-954c9d4583e7",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f344d3bc-08e0-4c3b-a0fd-6c77076b3ddc.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771404
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ccda26c1-a6d6-4317-8cf8-8a87e15ce12e",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d70b05bf-0f1b-4c54-98c3-723de0390de0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774777
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e737f650-b72d-44e7-b750-558a56716803",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e62bf109-5e91-4f0f-80cf-2b58f9994fb6.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771735
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f40301ba-831e-4afd-9ce8-5f3c1a05ff7e",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d8be9892-7060-4324-8dfa-72c48ec1c071.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770224
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e998a607-ac73-4849-afaa-57eee49cf051",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "48c65b9a-a445-42f7-afb2-7251c8bb9e61.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773069
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "fb6b289c-aaf9-4d8e-b6e0-5d35bce1b6e1",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "43a0a285-8960-4077-afe8-990c83a6dc15.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773119
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "fb79c491-7b01-42ae-8369-8364e442e31b",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d6b3e89d-0eae-43e7-8bfe-2826afcf8c81.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772561
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d31aeefc-b59b-42e9-9919-750b17a70a3d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b198d055-c575-4719-aef6-7f742ab9084b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "2a7c8d73-5b1b-5741-a54a-07224a4b7d05"
+      },
+      {
+        "annotation_id": "348b0f04-2759-5bb9-985f-bc13df75b529"
+      }
+    ],
+    "file_size": 770708
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d31aeefc-b59b-42e9-9919-750b17a70a3d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "862bf8dc-75ef-4b24-bbd7-158868dfb3a1.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "2a7c8d73-5b1b-5741-a54a-07224a4b7d05"
+      },
+      {
+        "annotation_id": "348b0f04-2759-5bb9-985f-bc13df75b529"
+      }
+    ],
+    "file_size": 773210
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f3501466-cf32-4866-b5fb-e94dd32341bc",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "dfeca67d-6470-4bdb-a2b8-588a737b5b2c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "3fc6e3a4-d46d-511c-b0be-0bc262da7fd5"
+      },
+      {
+        "annotation_id": "7f8edfca-2b65-5a79-b1d6-221947ae8b85"
+      }
+    ],
+    "file_size": 771930
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f1985735-a188-4567-a88a-530f9b80291b",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d3014055-2957-49ba-ae87-a7f284053d59.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "2ba6ae69-b6d1-53ae-b248-2a78ced7448c"
+      },
+      {
+        "annotation_id": "9d763d91-0c57-53a5-a7a8-96c65c0e3e74"
+      }
+    ],
+    "file_size": 773982
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a41c46da-7ed4-4192-bd16-b3cbb94a5133",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1b87bb41-f2ac-4e81-a430-7ccdd39536a4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "2bff563b-fc3e-5e0e-82c8-00aed85f6004"
+      }
+    ],
+    "file_size": 773878
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a41c46da-7ed4-4192-bd16-b3cbb94a5133",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b43bb294-2b49-4166-b414-a5d0dd278dac.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "2bff563b-fc3e-5e0e-82c8-00aed85f6004"
+      }
+    ],
+    "file_size": 775008
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1b354837-4925-4480-ac32-6b44d0957314",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "912de872-9183-414b-985d-392db556f259.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "e2671578-04c1-5aac-a347-a44aec1bba66"
+      }
+    ],
+    "file_size": 768480
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "199386c2-bb53-4fad-a1b6-59ab216a4a50",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "950626ad-02cd-48a9-a5cc-9f6037d498fe.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775010
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "8a16ddb3-4861-4128-bed9-0b1f94fe8cf7",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ec1f06c7-5c4d-44ec-96e2-c0637a6b3c43.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "c3f5ce9b-99c6-5478-a140-84eb14e5c2bf"
+      },
+      {
+        "annotation_id": "d3f07810-6112-54c2-9a3b-76541fee9eb2"
+      }
+    ],
+    "file_size": 770176
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0780eb43-d5b5-4c3d-9825-beacba5cc723",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "cc08d8ff-3af9-4660-ba7b-8454ca02c0e0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "d51f66bd-4be8-52bd-9c38-5615e9825e9f"
+      }
+    ],
+    "file_size": 770166
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d94fe32f-bedd-4f4c-9feb-fcb60d40f4bb",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c00f1d96-f8c5-4b27-b6bd-d5d680eb60be.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "d2037039-65d6-5842-9baa-c6398b3cab50"
+      }
+    ],
+    "file_size": 769736
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "722d6818-f1cb-49f4-b68a-fd0a31304681",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8cd0dd76-2005-4dad-b589-db31be3e57cf.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "e20d47b7-5d3b-554f-8330-4c9f8914ea21"
+      }
+    ],
+    "file_size": 770446
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "088edf89-d2b5-40c7-b066-df3bd383f7ea",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2e6af93e-9d26-479e-826a-def3edf14955.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766655
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0d96def2-cf0a-4659-94e5-f08744c57cc6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1f301fc7-873b-480b-b82a-8adb6b63cfb2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768855
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "257c9416-e86a-4c71-9dee-7212c2e56351",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f1bb67bd-8e8f-46cf-930f-0f00198478ad.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765811
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3136b041-24b9-42c5-b4a8-70f04c63a177",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "aa695a62-48a9-4969-8419-6fc4254bdb76.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769863
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "2dca3588-51e1-48f7-8c9b-7b7e53c3fb33",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d0b6f502-9e19-4f03-9dfd-dd9b45fb0513.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768516
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "31c96e35-5e2f-429c-b12a-7bc5a497a300",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "0268b4f0-411d-4789-b857-d35a9ad0df11.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770245
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "36bf02f8-c1c8-49f9-a417-adf88a205c70",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "da138739-ceeb-4e70-b98a-fb6318e7d4d1.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772315
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "392ca7f3-d52e-4aa7-a9ba-4c7d9aa6401c",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a3bb5c5c-5709-4382-a714-def3e6232d32.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770086
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "42ca54fc-c1ae-41cd-bca1-7fe9810db460",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2915a7af-ba33-486a-ab00-5d1a404ea497.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770320
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4addf05f-3668-4b3f-a17f-c0227329ca52",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "84a889af-15e2-4795-93fd-25eea76772de.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770988
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4c31127e-d095-4978-9dac-35153c27f6ed",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "5b40520b-0261-4807-bcac-dbbe4c70aa51.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773052
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4c31127e-d095-4978-9dac-35153c27f6ed",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "275e8735-dcbb-4f30-8d3f-5ce1ce0a92ac.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766577
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "53d7b0c2-b8ed-43c8-9ffd-a586e0a68086",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fca2c981-6731-47c0-8b70-721b076333e9.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 744168
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "56027785-fb10-492c-b021-ea9e3a1979db",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "25008760-a68d-40f1-892c-16720d592007.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769017
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "61c655ec-52b5-453f-a6cc-b2aba445b027",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ce038570-00d6-4f78-a617-32e395943f18.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773267
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "62633a11-db23-481f-add3-853b2acac1bf",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3c86b049-dd7f-4dcf-86b3-4812c8fa0b76.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769384
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6313c7cb-5631-42b2-93e2-592f86e84551",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2e35f08c-ce05-4cbb-a9b4-a007e9ae772b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772156
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "66ed89f6-8ba2-49d0-af0f-4b6ebf2381bf",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "bb66d99d-10ab-438a-9858-9a1333e2211b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771655
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "67a2593d-b986-4f84-a51c-7f2fb12e54ad",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e44b09cc-a9c1-4ae2-a7f5-ab353d6fccc0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770956
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "68b86559-38b2-41f2-b66e-c3c2b628b14d",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4b5064af-1178-4acd-a669-c31c5718cb86.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771898
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6e3b6b72-142d-4b8d-a462-28a205796e41",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2a5794b0-08ff-4f30-91d3-e3c85a29d4ca.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770052
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6e3b6b72-142d-4b8d-a462-28a205796e41",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a2088374-0a7c-49ca-99d2-0a045d626e94.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769795
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "77bb204d-4e68-4c93-905f-9ef4c53b1ce2",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4eeb98d6-4aa0-4c18-afbf-5178dde79424.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760136
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "81b71cff-da58-47cf-ad00-0a42489a7a0b",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e96810cb-2b80-4e68-b22c-f0b89d74cdb2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 764422
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d4bc755a-2585-4529-ae36-7e1d88bdecfe",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "11efd720-695e-4723-9f42-db680b1ea865.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767070
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d4bc755a-2585-4529-ae36-7e1d88bdecfe",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "50b53bd1-b298-45ff-90d0-b76ab96549ba.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766736
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3f43c83e-c2a2-4224-9da0-0757b9c7d4ca",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b57ccfae-9fae-4864-9dab-bb2ecd179647.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774445
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "037c57d1-b4a5-45dc-bda4-0550461d321b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "15c8eb41-213b-40ba-8aa3-36be42a3b7f3.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "7e7ded28-1fbd-5e12-96ad-863c85d56d50"
+      }
+    ],
+    "file_size": 773001
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "44c56277-37e5-47a9-b476-d8475ef477ca",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "0acb4ee4-253b-45e6-8450-f972b4d0d53f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772593
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0d6a7cdf-daf5-4181-864f-430952e6fdb3",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6a606cbd-462b-4a03-96ce-b49c9f7fd86a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772793
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0c80ab20-7e33-4f1d-b136-07782b68e98b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3f7893f2-78b3-4797-b03a-ae3ef8521f3b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770646
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "18058bfb-a008-410f-8e04-7c2b45a856b7",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "27aa72f5-c3ed-44e6-8249-fdfd225586a1.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "4cf7fe36-8a21-5476-8e16-7b469cc082b8"
+      }
+    ],
+    "file_size": 771510
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1f6b2aca-7357-40d1-ba7a-99227d9900a2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "17ea2f25-1ef8-4787-a966-e0abde509fae.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 776802
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "2e7cd434-0440-47a2-bc59-8805b8324ec4",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3eaa5dd0-c2b4-4c5c-bcdd-2ef67ad08ed9.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770726
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "40dc2edc-4bde-441d-8fc5-8ce1bd42f267",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "876fd526-dfa5-4c22-bbd4-f5c709f44888.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 758329
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6ab57144-16ea-4844-b737-e726787d23b9",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9adf1059-0bbf-4a06-8496-3c8cd924abba.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "b0bb03b4-1a11-5480-b46a-d682cc46bc2c"
+      }
+    ],
+    "file_size": 764508
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a02932f3-5606-42a5-aee4-e5b9f5aa1aaa",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8f656fc9-9da3-4059-838b-a7c54728ff39.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775429
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c1cac0d3-8074-4636-a0b9-47eeede6503b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "109b7e16-30c0-4554-a636-2eec4d13c09e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 776610
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c8802713-b814-4b55-993f-3ffebf8c3ab8",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "11fac4b4-f9b6-4763-974f-94770c7f32d3.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 757250
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "da61857a-b00e-4a19-ab02-8fbb2ee56bea",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a17d2503-f0bc-476a-8cdf-720748fa69cf.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 776045
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d5e14ef5-1b78-4498-a2e2-77070c83eb7f",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2a5a689a-74ef-4026-810a-35f92b31de68.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769505
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "da93a143-5799-4856-a5f4-3ff3b9284311",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6d2ff8fb-7b97-4071-95e5-f3c82026f245.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 764567
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e1a2cccc-f0ce-4d23-bd58-e098009ebdac",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "dd68777b-cbb4-4076-92d2-22a4140d86d6.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 761803
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ec10dc91-2743-4e0c-af77-2f0105bf6a9e",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "daba5cd1-4473-4b22-b56d-f768e9fdf85c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 762273
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e487c72f-2cb4-4a88-bd69-cd006d5b4c1a",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c4e3ab63-986e-4954-95ee-5648f7f1a606.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 756577
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e58e8850-154f-4695-bee0-005c76410327",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fe363fdd-5cda-488f-985f-30b24873a888.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774382
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "fde60f9f-5cff-405e-b0f6-e193195ebd53",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8aafee08-7862-4a4b-aa00-1a957d5aedc6.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774686
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0398eae1-7216-4595-80a5-6b117d96e070",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c89505f2-9689-4ce7-a875-4a2bcaf1bef7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "43363c6b-3ce3-5d71-9128-411fe0753672"
+      },
+      {
+        "annotation_id": "87459e2b-8afe-5bae-9a5c-dbaa9bb21480"
+      }
+    ],
+    "file_size": 769630
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0ab8d063-62b4-4d47-82aa-e3351a60029d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "64a0bfbf-349b-4517-a6fc-8f040294dc99.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "76fb9ebd-1589-5e66-8372-dc4a17989b27"
+      },
+      {
+        "annotation_id": "f98e0a0a-ac30-5696-9e7b-1f56771af577"
+      }
+    ],
+    "file_size": 776478
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "9335e4df-9974-47ec-84c4-256cd33522f2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6db32e9e-4ac4-41d6-9c36-8877002879d0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "e1d64486-e732-52e1-8a30-6ca8ee3c40e5"
+      }
+    ],
+    "file_size": 772596
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1f11de87-a5fe-49fd-80c1-e279b2bc69de",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fde489dd-cb6e-4d79-bfe9-135c85ef9ce1.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "dc4880ad-131a-50e6-91be-6408f9ca3a35"
+      }
+    ],
+    "file_size": 773892
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a504ff9d-3aef-4977-8fa5-0710ff6f7f63.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "43074507-19cc-569c-9518-022654241c6a"
+      },
+      {
+        "annotation_id": "5bd74ca8-27c4-56ff-b4f5-390298b5f8b0"
+      }
+    ],
+    "file_size": 767536
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4e1ad82e-23c8-44bb-b74e-a3d0b1126b96",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "443a2d44-b3a5-40f1-b187-5cb95756c213.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "43074507-19cc-569c-9518-022654241c6a"
+      },
+      {
+        "annotation_id": "5bd74ca8-27c4-56ff-b4f5-390298b5f8b0"
+      }
+    ],
+    "file_size": 766173
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "99599b60-4f5c-456b-8755-371b1aa7074e",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "75343e2d-452c-4051-99df-1855fc073666.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "423792a5-fac5-5bed-abed-036b5e5102a6"
+      }
+    ],
+    "file_size": 765349
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "99599b60-4f5c-456b-8755-371b1aa7074e",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8c7c7483-d4c1-432c-9518-1bcfe3852485.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "423792a5-fac5-5bed-abed-036b5e5102a6"
+      }
+    ],
+    "file_size": 767266
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "95b83006-02c9-4c4d-bf84-a45115f7d86d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a27ee641-72f3-4a57-b8d3-9a0d21094713.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "425f042c-0d60-51be-8ffc-69b39c3b4ad4"
+      }
+    ],
+    "file_size": 766438
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6eb61cab-8e83-4c18-a59a-ae0985ec9d2e",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "37fdd131-37ed-4774-ab98-acd9e5c1811c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "89dce91c-3189-50de-9770-364e25a94a9b"
+      }
+    ],
+    "file_size": 764140
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "257650bd-2e2b-4680-b77b-f9268b3af4ee",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "576f4dae-a2a6-4ed6-ac9c-af9b269828b2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "e354c548-e2e8-5a0f-ab88-3253c4959268"
+      }
+    ],
+    "file_size": 774304
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "972476b7-d7f3-4865-b978-0c13f29457cb",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4dbd8805-4664-43e7-b84c-8c1847c0e4ac.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "f5589cae-732e-5b12-8ef0-d6fdd3c675e1"
+      },
+      {
+        "annotation_id": "56eaaa75-aa40-544a-9dae-121f6bf582c5"
+      },
+      {
+        "annotation_id": "9f1ee78d-f022-5495-b6ad-fa6aa56bafdb"
+      }
+    ],
+    "file_size": 770607
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "37f5457e-21d9-4b79-95d5-ded6f2e43087",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "caad7044-d860-423c-a42d-8bd2ae3165aa.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "a172b257-ccbb-55a0-a16f-48115cd57753"
+      }
+    ],
+    "file_size": 772291
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6eb61cab-8e83-4c18-a59a-ae0985ec9d2e",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "56d4a3b8-e161-45d9-a2b5-428960aa108a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "89dce91c-3189-50de-9770-364e25a94a9b"
+      }
+    ],
+    "file_size": 758927
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6ee6ca0a-8702-480d-b2d1-9224e7dd9211",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "036bde1a-2038-4c2a-9491-ee423ff90f9d.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "adb72207-762b-506a-888d-efec13980126"
+      }
+    ],
+    "file_size": 769762
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "cee6e9f6-6d7e-4096-a9bc-2cce004fb218",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9826b55a-bc2c-4197-ad80-eba940d0ab33.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "309745e2-4989-5faf-8e3f-89329c79c574"
+      },
+      {
+        "annotation_id": "bfb5d173-4061-508e-bbb8-12faa3829974"
+      }
+    ],
+    "file_size": 774794
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "acae4e48-57de-40c5-9ae5-4386144ebaea",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8bca210b-d440-4677-b0a3-2301c722a4a6.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "225dd3cc-f361-5f72-b721-40ce47845b1b"
+      }
+    ],
+    "file_size": 771050
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f3e67161-1532-4b50-a9b5-0da80410c4d7",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b1fc4e87-748e-47d9-a083-cd5db8728c33.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "31e4ad04-e845-59e2-80dd-52284248aaac"
+      },
+      {
+        "annotation_id": "73dd1e0f-6aab-5984-8209-cff9b8415690"
+      }
+    ],
+    "file_size": 773905
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "25f64b80-0672-4980-9875-956b1699309b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8b03fb7b-c4b2-404c-baef-5d266514f85c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "40f39321-ed5a-5c0c-a37e-19dcb47b4841"
+      },
+      {
+        "annotation_id": "9b1c3d57-f929-58d2-8764-626e5209897a"
+      },
+      {
+        "annotation_id": "c9a6ff03-605f-50a6-8ebe-e8acf46a86de"
+      }
+    ],
+    "file_size": 765074
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b4ff0f49-b787-48ec-91cc-ee26786ff1bf",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "75779c06-b29c-4cbb-ad0a-1af9c8ca6dc7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "85347fe8-f8df-5129-9fdb-10526e2c1cd1"
+      },
+      {
+        "annotation_id": "baaa1c5c-4de7-574c-88fb-385fed3ef996"
+      }
+    ],
+    "file_size": 770468
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "2afa2fd8-e4d9-4e7b-b387-7e2451764d5d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4cb9796f-f7c1-4f7f-960a-a133b1cd6452.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "eb38d658-dfb0-5e24-856e-423d1d1e4419"
+      }
+    ],
+    "file_size": 771954
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a33f0741-2161-4818-89f2-ec8ccae57949",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "da7fd69e-7a9d-4f94-a78e-a6229daa0164.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "9aa0942d-42fb-5ec6-84fc-27f197b06d4d"
+      }
+    ],
+    "file_size": 773717
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b28e3be1-9843-4204-b999-b3e2a909c7bd",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8e31e0e2-4bd3-4aa9-9343-8920f349d1a9.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "2bca53c1-903e-5b39-a4e8-d1628acc901f"
+      }
+    ],
+    "file_size": 775426
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "95b83006-02c9-4c4d-bf84-a45115f7d86d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e4a760b1-fb3f-4e3d-a1a3-206110a4733a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "425f042c-0d60-51be-8ffc-69b39c3b4ad4"
+      }
+    ],
+    "file_size": 762227
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d3f8c35d-5197-43fa-a243-2baf9c44cf74",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9c06ab9e-6039-4c7f-8dee-aa92d5eaeb6c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774942
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d87e30a3-1b5a-41cf-bafe-27914a01c8d9",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8581b552-3104-4cb4-9ae1-309b6668878a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774379
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ad112acb-d241-48a0-8e48-d69cdc3feba8",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b4476c9c-968e-4f81-a39a-b4b9038aa611.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770046
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4fbf2497-0774-4599-8c90-1961612b8e3a",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "be1ab3fc-46d3-486e-8c01-00e8a42f3f60.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 763928
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "12bd70f5-2542-48cb-b296-ae9241b38f7f",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6961b976-8452-485f-8597-8d3e4bcb5a77.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766182
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "12bd70f5-2542-48cb-b296-ae9241b38f7f",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ae5a7d16-dd4d-4cbd-bc89-b1daa258b473.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760685
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d38dbe20-bd5a-45d5-8db3-d5f777b454b6",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8a963b24-6aba-44ec-9f34-5de593a36e76.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 739570
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "df7c9193-0bd2-4fd9-8ae1-1f9d341e92c5",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "bcf87d51-6760-48a9-9bda-adb70e3e74af.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "fb0e85dc-0833-52a5-a937-c6715f94e8a0"
+      }
+    ],
+    "file_size": 770693
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a3e1ac67-a1f2-44fb-8343-a7e8239fc24a",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f8cc6fd5-61ad-455f-9e0b-f829905c2fe0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774737
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "df7cfd84-a36a-44a0-b39f-a9ea1e0fd500",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9eed23ac-3cef-4e5b-91d4-ee934c1b7253.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775574
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "96006f5e-5922-4e55-afa5-5e43773d72f2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "83ae2bb5-b56a-4d68-87d2-b20abbd98b83.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "c8ae55fe-f478-53f0-b5a9-bdb0b9b40907"
+      }
+    ],
+    "file_size": 772974
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f03aacb8-5565-425f-a8d5-be1056f882e0",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8a8afcb1-fb67-4fd1-b77e-af3400e51726.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771893
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "211bb982-16f4-4f07-b24f-e633703f24c4",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "dde2a2ee-dd98-4a24-81df-87cb33502b4f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770047
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "34193c52-837c-4cf8-850a-00ae55be28ec",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "183228d9-4581-47de-83e4-af9d1bf92727.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770710
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "791f1b21-695e-4db1-b41d-80590c09d257",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9f26d117-e0ca-413c-8363-7100141f2952.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770171
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "0e2ee54a-51c9-4868-842d-a2a1c1cfb016",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fd3d1329-be86-4075-aba3-9bc489dcdd35.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765101
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "174cdc32-e94a-4829-b6b7-df560de55be2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9d3133a1-a96b-47b8-a91d-8c8384ecd7c8.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771935
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "220be009-8f1e-4a77-ab04-3220b5f87ea6",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ac219e3d-545c-462c-b9ad-e50f57def1f9.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "55ceba47-3147-5a7e-82b3-8efa607c06a8"
+      }
+    ],
+    "file_size": 762532
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "220be009-8f1e-4a77-ab04-3220b5f87ea6",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d3242e60-41f5-4dbf-b09d-c9b578afeeff.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771519
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3d6a027b-dfda-42b3-9323-407e42cf6d10",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e6485e41-f0b5-4fff-9817-928d977de204.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760604
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4d687740-96ca-4d78-8c78-1a2024ce6b6c",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a6da850a-89f7-4b4c-a4c4-929c21896d09.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774883
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "585e6487-b0a3-4828-8a06-46bee01dff74",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "647c13c0-cfb0-41e5-9e37-878a892dd75b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775446
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "5860a9f1-30e8-4833-99bb-a6863e78914b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "93818d82-fd3b-4d60-91e5-6225ac488b39.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765954
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "637e900e-64ab-4bff-82b9-3ba6b5632f35",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "36563066-33bc-4796-b7ed-a8a332adf34f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 758546
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "7d3e77cc-9603-4722-8e39-1912b678871b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fda933c8-4660-4687-90d9-178d22830a00.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773376
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "8d20352a-6180-40d0-adc0-c87fef854dfa",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ec9c114a-567f-46fd-b722-52da1e160b82.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765928
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "9a874b64-d0d6-416e-97bc-e9071ed0b16b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e13e5c91-3216-47a0-973c-94a1bc980e85.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760047
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a355bad1-bb49-4de5-892b-691ed0022d91",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "26260101-24e9-4b50-b45e-531cf84bbb12.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 761481
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "af1d9d69-0a45-4ad3-9873-57fbe4a4b895",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3c3a3b78-adb0-4f29-bab7-4b1123737c92.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765141
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b9a81947-0348-4fe6-a0ac-d674cd13aa99",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1cb6c6da-aa88-4bcb-bd57-a66d09fdd79c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770729
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "af1d9d69-0a45-4ad3-9873-57fbe4a4b895",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e2756787-23b8-4280-a64a-f1734dcf8820.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 763771
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d49b0369-905c-4608-96a9-cc854980fc4c",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ec260dde-0649-4376-bed3-6a059d2c6ea7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772994
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d539844b-d65d-41e6-a8f0-fa884df118bc",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "18c1c83f-c8db-4a7b-85b2-22b576d56dd3.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 762253
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ce94e544-8887-479f-83cd-27b1c740e4c2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "52ebf767-3faa-41a5-aefa-667587b52fd0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772631
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "da93a143-5799-4856-a5f4-3ff3b9284311",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f1f974f7-c704-4036-b48c-57941b5011ba.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 761951
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "fd881d58-c9c7-479b-b76b-1f3c2ab1b015",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "52a4ea00-0b37-45d0-ba2a-cbb045350922.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 751510
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "8a235eb8-d67d-49fe-a473-1777eb7e7c60",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "95ed8f8e-f4f3-43f3-ad88-b2d72fd02356.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769293
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1535c8ab-100d-4886-8598-12a94483d010",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6d0e74c2-ee2a-4b1f-b3d2-de330238828b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 755543
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1535c8ab-100d-4886-8598-12a94483d010",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "49cdfd94-f2e0-40f6-aa07-30703454ac90.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 764215
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "8479ec58-f5e7-4d9d-a382-2688ed93ca8e",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "dc46053a-381d-4137-b5f5-68ba583238b5.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773604
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3c56a43a-91f1-4a66-9cfe-d2e26b86a936",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4e968401-bcf3-4c71-bbc4-f1fa946c5849.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "24c27c83-af5f-5f66-9120-d836d3584316"
+      }
+    ],
+    "file_size": 771158
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1e3eb77c-d85b-437e-8b8c-12e5bd0e93dc",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "97b43aaa-d7f0-4795-af97-4fb5cfc31ecb.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773479
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1ee543d5-b8c0-4f79-8373-6bb6319f2ee2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "84d1a131-c1ef-4804-8d28-80c0c7de77e6.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766015
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "1ee543d5-b8c0-4f79-8373-6bb6319f2ee2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e499ddf4-fa42-41f8-a23b-68d1cde417e2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767143
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "2ca47049-bc12-4992-b9cf-1c01dda639be",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "7f6ec585-8e0e-43d3-8992-73264963afd9.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774264
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "337e77b3-7f58-4f92-96a4-c764b1ebfa56",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "81f06a38-253f-4bcc-8e01-e19b815eaff5.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775559
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3d6a027b-dfda-42b3-9323-407e42cf6d10",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1a703b25-0ef4-4dcd-b778-1d7e5b16e267.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765686
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "44b1d457-3a50-404e-b54c-ca619262bc2f",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "7649ce20-7702-4f48-9855-a9e161af39a3.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772307
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "40dc2edc-4bde-441d-8fc5-8ce1bd42f267",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2826ee85-08c5-4d6f-a147-f5810cbb545c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768202
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4c806d29-1674-4542-9f30-5c9a0fc184c4",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "81737261-0979-4623-bb32-70f129eb5a67.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774735
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "5d3d3918-7da8-4147-90a3-dc015be1dfbe",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ea8093dd-c8bd-462e-b3a2-156db78a0e67.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771435
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "5860a9f1-30e8-4833-99bb-a6863e78914b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "eba62389-f2e8-4c9f-8402-ea991f4c8915.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768263
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "637e900e-64ab-4bff-82b9-3ba6b5632f35",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d82dcb24-db48-4898-97bd-e00463976920.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 760200
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6394fe4a-6034-4c79-b28f-aa43e3753730",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "205e8d62-e745-4191-acb8-ef26e50425d4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771434
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6b0b6fc0-d808-49c3-8f2a-e122bc3142f5",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b67b04bd-0fb1-4ac4-bb6e-43bc2cd62283.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766551
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "7e691df8-8ea6-472c-86bf-504c7ba6983d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "5939fc0e-9d16-4495-aa91-0f6cb1cacf22.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775792
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "90b02be3-5496-40a2-8c6e-460d2898aadb",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "293a4fe0-1bca-4041-8a38-019fa6dc4a14.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773205
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "9293e197-e38a-4e19-a7d0-1b45d1ad48bd",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3ede32c6-1ba1-483d-9f8f-03eb99a31cdf.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766345
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "9a874b64-d0d6-416e-97bc-e9071ed0b16b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ec02c4d3-c3d3-4a6a-82c5-663582facfa7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 764723
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "9af6ed4e-8cdc-4f49-84e9-ba1053b5b3ca",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f024f4da-5692-4b1b-b129-9b9d393f5df4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765827
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a355bad1-bb49-4de5-892b-691ed0022d91",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "462def58-0e82-4a36-98c1-bae93fa18020.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 761567
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "aabc43bb-485a-49bc-b48a-d4e4ecd46d33",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "627ec42c-1274-4858-b17d-f6a9332baf41.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773745
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c8802713-b814-4b55-993f-3ffebf8c3ab8",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4330f5d8-eec6-441f-9156-c284081e8f55.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 750460
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d539844b-d65d-41e6-a8f0-fa884df118bc",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2b4d623a-1639-49d6-a93b-f351b9394396.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 755869
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "dca4c540-897f-435b-9ee2-8f5b2e8734c6",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3310eae9-4b65-4dce-bc40-295bf414dfbe.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771465
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e1a2cccc-f0ce-4d23-bd58-e098009ebdac",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ae7c8ce3-fee0-4be6-8486-52ab05daf55d.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766626
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e487c72f-2cb4-4a88-bd69-cd006d5b4c1a",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3fc09e49-9798-4534-ab23-d2cd002cc0fa.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 763732
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ec260f86-7186-4bf2-9de9-320b4ca155a4",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "48bc7dfe-6d7c-43ab-8f74-5897a5d65115.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 761531
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "7ccce724-d401-487d-b444-6edbbd032303",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "dd259400-a042-4916-b562-5a9f38770f36.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773825
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f516991c-5139-4b3e-b605-5a3d90688209",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "80fcbdcb-7f94-46f1-b6f4-1e81bac3ef57.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "0e54c4b6-b4ab-5978-97e9-82ecf9a5ab46"
+      },
+      {
+        "annotation_id": "c53f22b1-677b-5528-a438-39d5390e2c68"
+      }
+    ],
+    "file_size": 764345
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "34d5d8b7-9737-43fa-86fe-7c2885c787cf",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d9f27648-5465-4666-96d3-1e879bf62340.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 759495
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "bcd78677-98d5-4403-8313-e1fbd76e8ef7",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d44c20c2-b932-4db5-b41f-94b9910c421a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "df550648-7c63-579a-bfe9-1c106995173e"
+      }
+    ],
+    "file_size": 774426
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c70a5975-c37b-47cc-9113-427a754807d8",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "55c9a35f-bc3d-49e2-bc21-8bb9688ecae3.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "05f490f0-6924-5cbb-968e-6312f7c00fd4"
+      }
+    ],
+    "file_size": 772140
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b09e872a-e837-49ec-8a27-84dcdcabf347",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "577ff3a0-59a1-41dc-b3c8-6dbafda45362.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "0a6312bc-5eb8-560f-a986-9e41c552cc13"
+      },
+      {
+        "annotation_id": "2d2ddab3-b372-5c23-8592-dcb6b6e9947f"
+      }
+    ],
+    "file_size": 762920
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "bff77f70-973a-4b49-8fd9-4a767f5df2c0",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b50bfd39-6e11-4f7e-ba1b-308d8937cf0d.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "0d145a27-52f2-56a4-ba8f-f1cd3d0a0fb7"
+      },
+      {
+        "annotation_id": "140098ef-3eec-59d0-bde7-ce23997b25ff"
+      }
+    ],
+    "file_size": 772420
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "43abe847-4ba7-466e-8283-5d7b80b999a7",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "61d4b4ce-0285-404a-8eca-70030cb863ec.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 776427
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b09e872a-e837-49ec-8a27-84dcdcabf347",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "40414680-742d-47f5-9f40-5daf4ab87c46.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "0a6312bc-5eb8-560f-a986-9e41c552cc13"
+      },
+      {
+        "annotation_id": "2d2ddab3-b372-5c23-8592-dcb6b6e9947f"
+      }
+    ],
+    "file_size": 763467
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "34d5d8b7-9737-43fa-86fe-7c2885c787cf",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "bcd5432e-c014-4fec-af52-63bd31828e40.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 763176
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3edf933a-be1a-46e8-bfb0-acdff30e64a0",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6e64450b-1311-4b91-96d9-19eb216a6b33.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767749
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "986ced10-52b9-43b4-84ad-96013a657f1b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ceea0f7b-b272-4cd0-abc8-760888bfad20.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770892
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "7ddd36fd-9e6a-4a46-a799-82998786cb36",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "82c3317c-a071-4154-ac05-c70f99c91ca7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774227
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a8e79b70-76c4-4d4f-8e1d-37daebf2a921",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8f378f34-f5c6-4be5-ab9a-231166205dd5.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 758731
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a9d7adec-3849-40e2-a2a2-f43443ec43bb",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1176f649-0929-42bc-b40d-49cf164863c0.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774702
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a402e786-132c-4095-bb75-22be04b5d835",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "15059ae2-ab03-4152-acf3-35abd0c7d288.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 758794
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f355cd59-eaa9-46c7-ab07-b90a7afc875c",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e620d41f-fc53-4732-a078-9af32643cfd5.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "1240dcbc-c58b-56c5-83a1-2bb1bc9e4b37"
+      },
+      {
+        "annotation_id": "6ef5c71f-ea3c-55dc-8550-37d1b67606d7"
+      },
+      {
+        "annotation_id": "db4acac7-abc7-5a9b-87c8-5134f318147a"
+      }
+    ],
+    "file_size": 772670
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "705a4688-f10f-4e6a-aed9-6efc3b3b9989",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2638ccae-7441-415d-b324-578622393eb5.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "ef36b235-9903-5360-84be-f8425edde1f8"
+      }
+    ],
+    "file_size": 771968
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "fd9ee494-65fe-4de4-adff-7952a059b17f",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "5b88a712-5faf-4b34-bd43-935537cd3f38.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "41dcddf7-14fd-5a61-b454-f4b616db539e"
+      }
+    ],
+    "file_size": 773101
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "28f899c5-ea17-4df6-83e6-e744e04d0ea1",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9d14df48-992e-42f8-b171-820e224637fd.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "257ddf69-f7c7-5799-a84b-67a505b92507"
+      },
+      {
+        "annotation_id": "5e30050f-1b76-5b98-8818-da9963ad7f64"
+      }
+    ],
+    "file_size": 771434
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "03c3409a-9d16-41d0-9e26-f9fc2547a4c8",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "31e7ba8c-4718-40ae-8a05-77e03a4ae81e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769301
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "94ee639e-3cb4-4943-b5f1-a89eb902153c",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "549f9daa-6601-46f9-8fc9-808c3a83aebf.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767612
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a16d7bf7-07b7-4320-969c-fc68dd564a92",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1fefc835-e12b-40fa-9ad6-54b51e70de45.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768936
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a19d84a1-b316-44d3-90b1-0d14b0fd7a14",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "7c365306-4c93-480b-93cb-e422c60bda2f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 761092
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a3de401d-91fe-49a2-bb07-81c1a06506e6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f2c7903d-6817-4fa5-9183-8c5094af5650.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770969
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a5d0c704-2888-4cff-805e-4bbe4636117c",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3ad247bc-5ca8-4f41-9db4-a62c8c75b49a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767591
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a8f3da11-890c-4fff-bfc5-d99357dc4e46",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "6c1c39c5-4990-4d51-abac-11b8806862e9.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772914
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "aebd0313-23be-46a8-abc6-b16c531c3a8e",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "e1695961-b1ea-441f-8a79-fbca3421a128.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 745476
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b2285924-9813-4f46-bb8f-91a0efd8a9b6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "cfb9f9d0-9365-4ad5-9a5b-219464695286.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770944
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b2285924-9813-4f46-bb8f-91a0efd8a9b6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a995aac3-4e75-4ee6-89d6-8b9f1f0d45ce.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772140
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "bab43415-d413-40be-a4c0-2c40a52afe6a",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "7db6aabc-0256-4dd1-bf43-610b20aac1ae.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772062
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "c43c8eea-7014-4abe-b805-397a9062d3e0",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "fca413c2-f249-4cb4-85d0-8c35a3cd64ff.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767803
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "cc4bd56a-25c5-4c48-b583-ac3aeb778ca6",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2a9eedbc-1ed4-46b9-b806-4eeac1793396.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772920
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ce15f31f-2bad-4485-96fa-495bfa262e66",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "740fcc4c-3005-4450-96d8-dd8d529eb14b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768395
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d6a08727-affd-4a59-837b-ea71741d7f09",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "80968d37-ecf1-46b9-9351-ac3a749c3a63.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775681
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "cf411fc0-0cce-42d2-ae79-24de1a105c05",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c4071016-d0c9-4fce-9d3e-0f1d311d42c4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769337
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f77b6930-a1ce-446e-a15d-c018cbbecfee",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c2900466-d59f-47c3-80ba-75c8411b2d33.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771327
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f98ecd8a-b878-4f53-b911-20cd8e17281c",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "118bcf8c-cbe2-44b5-b224-83a719244d68.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768510
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f77cf4d3-9829-4fd3-95a1-b29aed9e94b8",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "4454e161-0570-4364-9c39-6be996685671.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774078
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ffb0c0b7-165e-4439-b3e6-62431f40b7fe",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c212d0aa-9873-4308-90f6-4b44e8e800e4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770644
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "07b5663f-9a54-4462-b6c1-6fc8116b8714",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "c6886ccc-be6f-43b8-81f5-98d89daf4a7f.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772924
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f1985735-a188-4567-a88a-530f9b80291b",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "440eb7db-f7af-431b-83ea-3e140314c471.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "2ba6ae69-b6d1-53ae-b248-2a78ced7448c"
+      },
+      {
+        "annotation_id": "9d763d91-0c57-53a5-a7a8-96c65c0e3e74"
+      }
+    ],
+    "file_size": 768084
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "199386c2-bb53-4fad-a1b6-59ab216a4a50",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b11b6e02-d65f-4daa-9a50-7cb5a8be8c5b.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774740
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d2c1e896-6886-4122-bb48-5fbcd3f641f4",
+        "project": {
+          "project_id": "TCGA-LUAD"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "a97558ec-71f5-4218-bb24-23c51546770e.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "0e96fb37-7bf2-5553-89e3-46787e70b0df"
+      }
+    ],
+    "file_size": 770826
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ede3e359-bc49-4899-abe5-92dc65588286",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "bbf9ed0d-411f-49e5-910d-1701db0a5120.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 759610
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ede3e359-bc49-4899-abe5-92dc65588286",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "21f57ca0-4f7f-4756-b315-f73d372c0d39.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 759291
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f1a1bbf9-4751-4fb4-8a2b-19f8d4ba57bd",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8d2a1639-8f35-4442-9a76-f86d85bc7149.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765375
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f1a1bbf9-4751-4fb4-8a2b-19f8d4ba57bd",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "671060db-2cfa-4c1c-bbcd-a59ece1fca71.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 762499
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "32c86f17-34c3-406b-85c5-4f5965619247",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "0d62b640-391c-46d6-87b6-1f2128d7d099.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773808
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "09d08a43-4dcb-46d6-b2bd-f6245a6fff21",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f4fae2b9-9024-4d0f-baac-9b4fa41dd8c4.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773280
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "e6b72c24-1607-43b9-8b8a-7bf83eea5895",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "8b86588e-8696-40df-a4cd-c68c447854c2.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773574
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "aa53c701-4b65-4c26-a6f0-02a4498717a8",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "5e91f41a-f322-4d5e-bdb8-425b949ecab7.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 770504
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "23e65963-d9f3-4cec-953c-4dd06f7d8668",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "b294c5b0-c711-46a3-ba32-892cf0aa1518.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773311
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "6fd72426-f6c8-47ca-a500-d5d3600b9b15",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "2510ba93-fff4-422b-a914-ccaf1d567f5a.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 769796
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "2f586b38-5be6-4ffa-8a0f-c870fdf3dad3",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "3c736740-57a9-43cc-803c-f1789191d626.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773317
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ce8612ab-3149-4a6a-b424-29c0c21c9b8b",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "248d6482-8c85-4fc1-a7b5-27993343f6ad.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768002
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "03fa3310-406d-4c12-a409-136fc47d996d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "cfe21ebf-7461-427b-b34f-05aa0c60db91.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 766608
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "69e43922-e028-4090-8724-1fb2f018c7f2",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "d9f81305-c719-44a6-a4ff-f259169f0903.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773026
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "4a81f496-bf8e-43e8-8332-9aaef09f485f",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "973a8050-83e2-4383-96d5-77a1cd52861c.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 762487
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a0b3fab8-7817-429b-aa34-7ef03e813313",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1020a31d-61e6-4d42-a6f0-80bd6f805849.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "annotations": [
+      {
+        "annotation_id": "19d0c10b-3998-5e07-8ab4-608b8cb8ef4d"
+      }
+    ],
+    "file_size": 773559
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "f1b357e4-d67a-42c9-b0b7-12f69fa3da58",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9147b58f-a3c6-4ee6-bc20-64aa96a3c3f3.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 774181
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "95c4c851-6ca3-4416-90ed-73f46f211583",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "ef2c60ec-c987-4ac4-8330-e63edb4e51fc.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 775619
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "d4608593-20cb-4b53-b037-39aa8ddd05b7",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "1b59089c-3cf1-404b-b6ef-1ef0e32b7a03.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 771285
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "3d1f4059-2220-45b4-a4d2-b14f76cec96a",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "f853d4a5-8745-4e88-9c77-657acf67ec82.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773892
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "87ac0ad4-8c9d-409e-9a86-1d201d01769d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "0c52f1b1-adf4-4c79-8e73-6025abefcf96.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 763284
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "a8e79b70-76c4-4d4f-8e1d-37daebf2a921",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "beb3cc1f-2ef2-4bcd-be3f-ce4322b6a691.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 767167
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "b913d254-8307-4b8a-8313-d978e32bb38f",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "0c9cd465-6212-49c4-a387-e6ea39c2e878.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 772962
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "ac89e063-a288-4516-9d9e-92cc0ed2bc24",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "699514e8-8dbe-4177-a658-bc7ad5907285.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 773922
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "87ac0ad4-8c9d-409e-9a86-1d201d01769d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "9b9f9ff8-ec25-4160-a8f7-c038f502b000.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 768651
+  },
+  {
+    "data_format": "TXT",
+    "cases": [
+      {
+        "case_id": "03fa3310-406d-4c12-a409-136fc47d996d",
+        "project": {
+          "project_id": "TCGA-LUSC"
+        }
+      }
+    ],
+    "access": "open",
+    "file_name": "74bca9c3-f725-4dbd-b1f9-bbd58cdac88d.methylation_array.sesame.level3betas.txt",
+    "data_category": "DNA Methylation",
+    "file_size": 765136
+  }
+]

@@ -1,0 +1,14 @@
+genexpr:
+  output_dir: input/raw/genexpr
+  manifest: input/manifest/manifest-genexpr.txt
+  mapping: input/mapping/mapping-genexpr.json
+  filename_ending: .rna_seq.augmented_star_gene_counts.tsv
+meth:
+  output_dir: input/raw/meth
+  manifest: input/manifest/manifest-meth.txt
+  mapping: input/mapping/mapping-meth.json
+  filename_ending: .methylation_array.sesame.level3betas.txt
+starting_from: meth
+max_downloads: 20
+manifest_dir: input/manifest
+processed_dir: input/processed
