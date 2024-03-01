@@ -1,14 +1,20 @@
-genexpr:
-  output_dir: input/raw/genexpr
-  manifest: input/manifest/manifest-genexpr.txt
-  mapping: input/mapping/mapping-genexpr.json
-  filename_ending: .rna_seq.augmented_star_gene_counts.tsv
-meth:
-  output_dir: input/raw/meth
-  manifest: input/manifest/manifest-meth.txt
-  mapping: input/mapping/mapping-meth.json
-  filename_ending: .methylation_array.sesame.level3betas.txt
-starting_from: meth
-max_downloads: 20
+downloads:
+  - data: labels
+    manifest: input/manifest/manifest_labels.txt
+    mapping: input/mapping/mapping_labels.json
+    filename_ending: .xml
+
+  - data: genexpr
+    manifest: input/manifest/manifest_genexpr.txt
+    mapping: input/mapping/mapping_genexpr.json
+    filename_ending: .rna_seq.augmented_star_gene_counts.tsv
+
+  - data: wsi
+    manifest: input/manifest/manifest_wsi.txt
+    mapping: input/mapping/mapping_wsi.json
+    filename_ending: .svs
+
+max_downloads: 2
 manifest_dir: input/manifest
-processed_dir: input/processed
+raw_data_dir: input/raw
+output: input/processed/input.csv
