@@ -14,7 +14,7 @@ downloads:
     mapping: input/mapping/mapping_wsi.json
     filename_ending: .svs
 
-max_downloads: 2
+max_downloads: 10
 manifest_dir: input/manifest
 raw_data_dir: input/raw
 output: input/processed/input.csv

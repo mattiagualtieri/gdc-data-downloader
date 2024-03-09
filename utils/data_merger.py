@@ -15,7 +15,6 @@ class DataMerger:
             self.write_header(out)
             for case_id in self.mapping_list.mappings:
                 out.write(case_id)
-                out.write(';')
                 case = self.mapping_list.mappings[case_id]
                 for data_type in case:
                     mapping = case[data_type]

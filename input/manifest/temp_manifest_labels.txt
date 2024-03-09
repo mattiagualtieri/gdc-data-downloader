@@ -1,0 +1,11 @@
+id	filename	md5	size	state
+de72e601-b104-4c2e-a137-e97226dfaa31	nationwidechildrens.org_clinical.TCGA-73-4658.xml	09b6b49bdfac2d2f57092475b2efd1a5	34388	released
+d3bc0e7d-52c8-4640-977f-c983dd256591	nationwidechildrens.org_clinical.TCGA-78-7166.xml	f62ceab976493a73dd12a159390bba24	39313	released
+c595a541-1c2a-4ce4-9092-13fffa2a24eb	nationwidechildrens.org_clinical.TCGA-73-4676.xml	9734edbdd0d5ced3445f34185803e78d	72761	released
+49260aba-249b-492b-95eb-92c9030d5e98	nationwidechildrens.org_clinical.TCGA-38-4629.xml	03069d86ed27ac2db7c4127167acaa8f	34423	released
+6b8eace0-1ae0-47d7-9567-a9c1a133baea	nationwidechildrens.org_clinical.TCGA-64-1677.xml	f54f1848481f268e7d90dcbea8280806	57611	released
+b3900ef6-3672-406c-83b8-7e0c3be10304	nationwidechildrens.org_clinical.TCGA-55-6979.xml	130bb16285210dc39347062400bd0fe3	46458	released
+047a94b3-267a-4a47-9c63-71641e2ae8bd	nationwidechildrens.org_clinical.TCGA-50-5939.xml	5bcad2aa7545584cf90cc5dd8204052b	34296	released
+9f5ca565-41d7-471a-a05d-005d2e44ec53	nationwidechildrens.org_clinical.TCGA-64-5775.xml	924349946b1383492485677ff4dcd47f	46694	released
+5a278a81-387b-404e-a14e-7b0672ae3ca4	nationwidechildrens.org_clinical.TCGA-50-5935.xml	aa58ec15250d5b4a6a389c44fcaa6ef4	39355	released
+1f9d0790-5ada-421f-b388-4618f9e140d0	nationwidechildrens.org_clinical.TCGA-78-8660.xml	9ea1bbbb92fc19697147559057ee5793	32136	released
