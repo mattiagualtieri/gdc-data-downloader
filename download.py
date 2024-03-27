@@ -1,4 +1,5 @@
 import os
+import shutil
 import subprocess
 import yaml
 from utils.manifest import Manifest
@@ -51,9 +52,29 @@ def download_data(config, data_type, manifest):
         os.remove(manifest)
         return
     print(f'Downloading {data_type} data from GDC...')
-    subprocess.run(["gdc-client", "download", "-m", manifest, "-d", output_dir])
+    subprocess.run(["gdc-client", "download", "-m", manifest, "-d", output_dir, "-n", "2"])
     os.remove(manifest)
     print(f'Successfully downloaded {data_type} data')
+
+
+def move_all_wsi_to_dir(input_dir, output_dir):
+    for subdir in os.listdir(input_dir):
+        new_name = ''
+        svs_file = ''
+        subdir_path = os.path.join(input_dir, subdir)
+        if os.path.isdir(subdir_path):
+            for file in os.listdir(subdir_path):
+                if file.endswith('.txt'):
+                    txt_file = os.path.join(subdir_path, file)
+                    with open(txt_file, 'r') as f:
+                        lines = f.readlines()
+                        if len(lines) > 1:
+                            # Assuming the second line of the TSV file contains the CASE value
+                            case_id = lines[1].split('\t')[3].strip()  # Adjust index if necessary
+                            new_name = os.path.join(output_dir, case_id + '.svs')
+                elif file.endswith('.svs'):
+                    svs_file = os.path.join(subdir_path, file)
+            shutil.move(svs_file, new_name)
 
 
 def main():
@@ -89,6 +110,11 @@ def main():
 
     merger = DataMerger(config['raw_data_dir'], merged_mapping_list, config['output'])
     merger.merge()
+
+    input_dir = os.path.join(config['raw_data_dir'], 'wsi')
+    output_dir = config['wsi_data_dir']
+    print(f'Moving WSIs from {input_dir} to {output_dir}')
+    move_all_wsi_to_dir(input_dir, output_dir)
 
     print('Execution terminated successfully')
 

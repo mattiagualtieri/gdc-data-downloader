@@ -17,4 +17,5 @@ downloads:
 max_downloads: 10
 manifest_dir: input/manifest
 raw_data_dir: input/raw
+wsi_data_dir: input/wsi
 output: input/processed/input.csv
